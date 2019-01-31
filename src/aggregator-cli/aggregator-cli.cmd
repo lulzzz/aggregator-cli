@@ -1,0 +1,1 @@
+@dotnet aggregator-cli.dll %*
